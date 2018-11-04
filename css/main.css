@@ -106,7 +106,7 @@ html {
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to top, #f05053, #e1eec3);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    /* background-color: peachpuff; */
+    /* background-color: rgba(163, 163, 163, 0.692); */
 }
 
 body {
