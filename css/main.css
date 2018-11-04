@@ -177,6 +177,12 @@ nav#mainlinks a:active {
 }
 
 /* Aside Styles */
+aside {
+    position: relative;
+    left: 500px;
+    bottom: 530px;
+    height: 200px;
+}
 /* Address */
 article {
     margin: 10px;
