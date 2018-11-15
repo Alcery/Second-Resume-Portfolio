@@ -207,14 +207,14 @@ article p a:hover {
     color: rgba(40, 170, 245, 0.897);
 }
 
-article ul li a:link,
-article ul li a:visited {
+article dl dt a:link,
+article dl dt a:visited {
     color: darkcyan;
     text-decoration: none;
 }
 
-article ul li a:active,
-article ul li a:hover {
+article dl dt a:active,
+article dl dt a:hover {
     color: rgba(40, 170, 245, 0.897);
     text-decoration: none;
 }
@@ -223,9 +223,9 @@ article#websites {
     height: 200px;
 }
 
-article#websites ul li {
+/* article#websites ul li {
     list-style-type: square;
-}
+} */
 
 article.skills ul li {
     list-style-type: square;
